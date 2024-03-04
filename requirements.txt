@@ -3,3 +3,4 @@ git+https://github.com/huggingface/transformers.git
 datasets
 monai
 patchify
+torch-encoding

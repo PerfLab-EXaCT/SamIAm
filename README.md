@@ -18,6 +18,7 @@ If you're using Slurm for job scheduling, you can run the segmentation process w
 
 ```bash
 sbatch -p node --gres=gpu:1 [-A allocation] run.sh
+```
 
 ## Collab Demo
 

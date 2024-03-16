@@ -18,3 +18,8 @@ If you're using Slurm for job scheduling, you can run the segmentation process w
 
 ```bash
 sbatch -p node --gres=gpu:1 [-A allocation] run.sh
+
+## Collab Demo
+
+- [Demo](https://colab.research.google.com/github/PerfLab-EXaCT/SamIAm-LabelStudio/blob/main/SamIAm_Demo.ipynb)
+
